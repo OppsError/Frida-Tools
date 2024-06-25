@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://t.me/oppsl"><img title="@Opps_Error" src="https://img.shields.io/badge/@%20Opps_Error-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://t.me/oppsl"><img title="@Opps_Error" src="https://img.shields.io/badge/20@Opps_ErrorSCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 <a name="readme-top"></a>
