@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://t.me/opps_error"><img title="Adel Fox" src="https://img.shields.io/badge/by%20Adel-Fox-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://t.me/opps_error"><img title="Adel Fox" src="https://img.shields.io/badge/by Adel-Fox-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 
 <a name="readme-top"></a>
