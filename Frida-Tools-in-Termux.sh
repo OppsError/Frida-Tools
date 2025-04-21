@@ -8,7 +8,7 @@ pip install -U setuptools wheel
 pip cache purge
 pip download frida==16.2.1
 gzip -d *.gz && tar -xvf *.tar && rm *.tar && cd frida-16*
-latest_version=$(curl -s https://api.github.com/repos/frida/frida/releases/latest | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/') && curl -L -o frida-core-devkit-${latest_version}-android-arm64.tar.xz https://github.com/frida/frida/releases/download/${latest_version}/frida-core-devkit-${latest_version}-android-arm64.tar.xz
+latest_version=$(curl -s https://api.github.com/repos/frida/frida/releases/frida==16.2.1 | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/') && curl -L -o frida-core-devkit-${16.2.1}-android-arm64.tar.xz https://github.com/frida/frida/releases/download/${16.2.1}/frida-core-devkit-${16.2.1}-android-arm64.tar.xz
 unxz *.xz && tar -xvf *.tar && export FRIDA_CORE_DEVKIT=$PWD
 pip wheel .
 pip install *.whl frida-tools
